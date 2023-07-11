@@ -1,0 +1,6 @@
+{
+	"uri":"https://localhost:8081",
+	"primary_key" : "<primary key>",
+	"primary_connection_string": "<primary connection string>",
+	"mongo_connection_string":"<mongodb connection string>"
+}
